@@ -1,0 +1,127 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100&subset=cyrillic-ext,latin);
+@import url(http://fonts.googleapis.com/css?family=Play:400,700&subset=cyrillic-ext,latin);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:300);
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #1c0835; /* Old browsers */
+	background: -moz-linear-gradient(left,  #1c0835 0%, #2f0e59 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#1c0835), color-stop(100%,#2f0e59)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left,  #1c0835 0%,#2f0e59 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left,  #1c0835 0%,#2f0e59 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left,  #1c0835 0%,#2f0e59 100%); /* IE10+ */
+	background: linear-gradient(to right,  #1c0835 0%,#2f0e59 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c0835', endColorstr='#2f0e59',GradientType=1 ); /* IE6-9 */
+	color: #B8B8B8;
+	text-shadow: rgba(0,0,0,.01) 0 0 1px !important;
+}
+
+.clear {
+	clear: both;
+}
+
+.nav {
+	font-family: 'Roboto', sans-serif;
+	text-transform: uppercase;
+}
+
+.logo {
+}
+
+.logo img {
+}
+
+.adjusted {
+	text-align: justify;
+}
+
+hr {
+	border-top: 1px solid #36425C;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.navbar-default {
+	background-color: #172942;
+	border-color: #3A3D4C;
+}
+
+.navbar-default .navbar-nav li a {
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 0.4px;
+}
+
+
+.navbar-default .navbar-nav li :hover {
+	color: #dddddd !important;
+}
+
+.logo-container {
+	text-align: center;
+}
+
+.logo-text {
+	font-family: 'Play', sans-serif;
+	text-transform: uppercase;
+	font-size: 22px;
+	font-weight: 200;
+	color: #FEFEFE;
+	margin-top: 18px;
+}
+
+.top-container {
+	margin-top: 70px;
+}
+
+.foot-text {
+	text-align: center;
+}
+
+.party-image {
+	width: 100%;
+}
+
+.party-desc {
+	color: white;
+}
+
+.party-desc p, .party-desc li {
+	font-family: 'Roboto', serif;
+	text-align: justify;
+}
+
+.ev-name {
+	margin-top: 0;
+}
+
+.head-ev {
+	margin-bottom: 30px;
+	color: #eee;
+	font-size: 20px;
+	font-weight: 300;
+	letter-spacing: 1px;
+}
+
+.head-mix {
+	margin-bottom: 30px;
+	color: #eee;
+}
+
+.vk-button {
+	width: 140px;
+	margin-top: 20px;
+}
+
+.iframe-mix {
+	margin-bottom: 20px;
+
+}
+
+
+.back-container {
+	background: rgba(255, 255, 255, 0.08);
+	padding: 0;
+}
